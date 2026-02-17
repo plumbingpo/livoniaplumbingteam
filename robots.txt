@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://livoniaplumbingteam.com/sitemap.xml
